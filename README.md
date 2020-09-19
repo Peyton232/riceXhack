@@ -1,2 +1,5 @@
 # riceXhack
-hackathon at rice university
+hackathon for rice university
+
+HOW TO RUN
+open index.html
